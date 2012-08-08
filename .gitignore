@@ -2,4 +2,6 @@
 .settings
 layouts/
 src/main/webapp/WEB-INF/
-.classpathy
+.classpath
+.factorypath
+.project
