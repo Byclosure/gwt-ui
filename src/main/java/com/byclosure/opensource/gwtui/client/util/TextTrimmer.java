@@ -1,4 +1,4 @@
-package com.byclosure.opensource.client.util;
+package com.byclosure.opensource.gwtui.client.util;
 
 import com.google.gwt.event.logical.shared.AttachEvent;
 import com.google.gwt.user.client.ui.HasText;
