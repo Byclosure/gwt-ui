@@ -247,8 +247,8 @@
              <content>
 eclipse.preferences.version=1
 jarsExcludedFromWebInfLib=
-warSrcDir=src/main/webapp
-warSrcDirIsOutput=true
+warSrcDir=
+warSrcDirIsOutput=
              </content>
            </file>
            <file>
